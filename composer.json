@@ -1,0 +1,24 @@
+{
+    "name": "eli5/posts",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Bram Bos",
+            "email": "bram@eli5.io"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Posts\\": ""
+        }
+    }
+}
